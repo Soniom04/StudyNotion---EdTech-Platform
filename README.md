@@ -1,39 +1,54 @@
-📚 StudyNotion – Online Education Platform
+# 📚 StudyNotion – Online Education Platform  
 
-🔗 Live Demo
+[🔗 Live Demo](https://studynotion-frontend.vercel.app/)  
 
-Overview
+## 📖 Overview  
+StudyNotion is a **MERN-based ed-tech platform**.  
+- Students can **browse, buy, and learn** from courses.  
+- Instructors can **create and sell** courses.  
+- Offers **engaging UI, secure payments, and cloud-based content delivery**.  
 
-StudyNotion is a MERN-based ed-tech platform.
-Students can browse, buy, and learn from courses, while instructors can create and sell courses.
-It offers an engaging UI, secure payments, and cloud-based content delivery.
+---
 
-Features
+## ✨ Features  
+### 👩‍🎓 Students  
+- Browse and purchase courses  
+- Watch lessons & track progress  
+- Rate & review courses  
 
-👩‍🎓 Students: Browse, purchase, watch courses, rate & review.
-👨‍🏫 Instructors: Create & manage courses, track insights.
-🔐 Common: Secure login (JWT), payments (Razorpay), media storage (Cloudinary).
+### 👨‍🏫 Instructors  
+- Create & manage courses  
+- Track insights and student engagement  
 
-Tech Stack
+### 🔐 Common  
+- Secure login (**JWT**)  
+- Payments with **Razorpay**  
+- Cloud media storage (**Cloudinary**)  
 
-React, Tailwind, Redux, Node.js, Express.js, MongoDB, JWT, Razorpay, Cloudinary.
+---
 
-How It Works
+## 🛠 Tech Stack  
+- **Frontend:** React, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB + Mongoose  
+- **Auth:** JWT, Bcrypt  
+- **Payments:** Razorpay  
+- **Media:** Cloudinary  
 
-Users sign up as student or instructor.
+---
 
-Students explore → buy → access courses.
+## ⚡ How It Works  
+1. Users sign up as **student** or **instructor**  
+2. Students explore → buy → access courses  
+3. Instructors create & manage content  
+4. Backend handles authentication, payments, and content delivery  
 
-Instructors create & manage content.
+---
 
-Backend handles authentication, payments, and content.
+## 🔮 Future Plans  
+- Admin dashboard  
+- AI-based course recommendations  
+- Gamification (badges, streaks)  
+- Mobile app version  
 
-Future Plans
-
-Admin dashboard
-
-AI-based recommendations
-
-Gamification (badges, streaks)
-
-Mobile app version
+---
